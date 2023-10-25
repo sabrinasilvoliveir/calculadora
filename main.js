@@ -1,5 +1,5 @@
 let display = document.getElementById("display");
-let currentInput = "";
+let currentInput ="";
 
 function appendToDisplay(value) {
   currentInput += value;
